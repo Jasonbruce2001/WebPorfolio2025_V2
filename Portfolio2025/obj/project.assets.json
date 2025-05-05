@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jasonbruce/Documents/Animation Testing/Portfolio2025/Portfolio2025.csproj",
+      "projectUniqueName": "/Users/jasonbruce/Documents/WebPorfolio2025_V2/Portfolio2025/Portfolio2025.csproj",
       "projectName": "Portfolio2025",
-      "projectPath": "/Users/jasonbruce/Documents/Animation Testing/Portfolio2025/Portfolio2025.csproj",
+      "projectPath": "/Users/jasonbruce/Documents/WebPorfolio2025_V2/Portfolio2025/Portfolio2025.csproj",
       "packagesPath": "/Users/jasonbruce/.nuget/packages/",
-      "outputPath": "/Users/jasonbruce/Documents/Animation Testing/Portfolio2025/obj/",
+      "outputPath": "/Users/jasonbruce/Documents/WebPorfolio2025_V2/Portfolio2025/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jasonbruce/.nuget/NuGet/NuGet.Config"
