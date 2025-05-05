@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using Portfolio2025.Models;
 
 namespace Portfolio2025.Controllers;
