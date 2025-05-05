@@ -1,0 +1,60 @@
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/bin/Debug/net8.0/appsettings.Development.json
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/bin/Debug/net8.0/appsettings.json
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/bin/Debug/net8.0/Animation Testing.staticwebassets.runtime.json
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/bin/Debug/net8.0/Animation Testing
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/bin/Debug/net8.0/Animation Testing.deps.json
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/bin/Debug/net8.0/Animation Testing.runtimeconfig.json
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/bin/Debug/net8.0/Animation Testing.dll
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/bin/Debug/net8.0/Animation Testing.pdb
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/Animation Testing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/Animation Testing.AssemblyInfoInputs.cache
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/Animation Testing.AssemblyInfo.cs
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/Animation Testing.csproj.CoreCompileInputs.cache
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/Animation Testing.MvcApplicationPartsAssemblyInfo.cache
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/Animation Testing.RazorAssemblyInfo.cache
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/Animation Testing.RazorAssemblyInfo.cs
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/staticwebassets.build.json
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/staticwebassets.development.json
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/staticwebassets/msbuild.Animation Testing.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/staticwebassets/msbuild.build.Animation Testing.props
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Animation Testing.props
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Animation Testing.props
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/scopedcss/bundle/Animation Testing.styles.css
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/scopedcss/projectbundle/Animation Testing.bundle.scp.css
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/Animation Testing.dll
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/refint/Animation Testing.dll
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/Animation Testing.pdb
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/Animation Testing.genruntimeconfig.cache
+/Users/jasonbruce/Documents/Lane Winter 2025/DOTNET/Animation Testing/Animation Testing/obj/Debug/net8.0/ref/Animation Testing.dll
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/bin/Debug/net8.0/appsettings.Development.json
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/bin/Debug/net8.0/appsettings.json
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/bin/Debug/net8.0/Animation Testing.staticwebassets.runtime.json
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/bin/Debug/net8.0/Animation Testing
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/bin/Debug/net8.0/Animation Testing.deps.json
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/bin/Debug/net8.0/Animation Testing.runtimeconfig.json
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/bin/Debug/net8.0/Animation Testing.dll
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/bin/Debug/net8.0/Animation Testing.pdb
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/Animation Testing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/Animation Testing.AssemblyInfoInputs.cache
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/Animation Testing.AssemblyInfo.cs
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/Animation Testing.csproj.CoreCompileInputs.cache
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/Animation Testing.MvcApplicationPartsAssemblyInfo.cache
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/Animation Testing.RazorAssemblyInfo.cache
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/Animation Testing.RazorAssemblyInfo.cs
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/staticwebassets.build.json
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/staticwebassets.development.json
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/staticwebassets/msbuild.Animation Testing.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/staticwebassets/msbuild.build.Animation Testing.props
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Animation Testing.props
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Animation Testing.props
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/scopedcss/bundle/Animation Testing.styles.css
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/scopedcss/projectbundle/Animation Testing.bundle.scp.css
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/Animation Testing.dll
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/refint/Animation Testing.dll
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/Animation Testing.pdb
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/Animation Testing.genruntimeconfig.cache
+/Users/jasonbruce/Documents/Animation Testing/Animation Testing/obj/Debug/net8.0/ref/Animation Testing.dll

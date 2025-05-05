@@ -1,0 +1,131 @@
+html {
+  font-size: 14px;
+}
+
+@keyframes titleLeftScrollIn {
+  from {
+    opacity: 0;
+    translate: -120vw 0;
+    scale: 200% 1;
+  }
+
+  to {
+    opacity: 1;
+    translate: 0 0;
+    scale: 100% 1;
+  }
+}
+
+@keyframes titleRightScrollIn {
+  from {
+    opacity: 0;
+    translate: 120vw 0;
+    scale: 200% 1;
+  }
+
+  to {
+    opacity: 1;
+    translate: 0 0;
+    scale: 100% 1;
+  }
+}
+
+@keyframes scrollFade {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+div.in-view {
+  animation: scrollFade 1s;
+}
+
+.titleContainer {
+  margin-top: 30vh;
+}
+
+.contentContainer {
+  margin-block: 50vh;
+  margin-inline: 10vw;
+}
+
+.titleLeft {
+  animation-name: titleLeftScrollIn;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+}
+
+.titleRight {
+  animation-name: titleRightScrollIn;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+}
+
+.scrollMore {
+  border-top: black solid 1px;
+  padding-top: 2vh;
+  animation-name: scrollFade;
+  animation-duration: 4s;
+  animation-iteration-count: 1;
+}
+
+.contactLink {
+  font-size: 3vh;
+  text-decoration: none;
+  color: black;
+}
+
+.contactLink:hover {
+  color: cornflowerblue;
+  font-size: xx-large;
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+}
+
+.navSticky {
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 100; /* Optional, to ensure it stays on top */
+  background-color: white; /* Optional, to avoid text hiding behind the navbar */
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.footer {
+  margin-top: auto;
+  min-height: 10vh;
+}
+
+@media (max-width: 415px) {
+  .scrollMore{
+    border-top: black solid 1px;
+    padding-top: 2vh;
+    animation-name: scrollFade;
+    animation-duration: 4s;
+    animation-iteration-count: 1;
+  }
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
