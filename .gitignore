@@ -9,3 +9,7 @@ Portfolio2025/obj/project.nuget.cache
 Portfolio2025/obj/project.packagespec.json
 Portfolio2025/obj/rider.project.model.nuget.info
 Portfolio2025/obj/rider.project.restore.info
+Portfolio2025/obj
+Portfolio2025/bin
+Portfolio2025/.DS_Store
+.DS_Store
